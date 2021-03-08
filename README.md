@@ -1,4 +1,4 @@
-# Natours
+# Nexter
 This project was built using pure HTML, CSS and SASS. Incorporating Block Element Modifier (BEM), Transitions, Color-gradients, Grid system and more. 
 
 You can fork and clone the project and run `npm install` to install the external dependencies.
